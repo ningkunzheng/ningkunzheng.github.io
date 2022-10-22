@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "My Cooking"
+excerpt: "A chef occupied by research works (also a barista terrible at latte art).<br/>Glad to cook for you at graduate student pay rate :) <br/> <img src='/images/cooking/3.jpg'>"
 collection: portfolio
 ---
+Not limited in Chinese cuisine, contact me for full menu...
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/cooking/1.jpg' width="600" height="450">
+<img src='/images/cooking/2.jpg' width="600" height="450">
+<img src='/images/cooking/3.jpg' width="600" height="450">
+<img src='/images/cooking/4.jpg' width="600" height="450">
+<img src='/images/cooking/5.jpg' width="600" height="450">
+<img src='/images/cooking/6.jpg' width="600" height="450">
