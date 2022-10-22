@@ -1,6 +1,6 @@
 ---
-title: "My "Bubble Tea""
-excerpt: "A cat-dad need "Bubble Tea" badly for emotional support. <br/><img src='/images/Bubble/bubble.jpg'>"
+title: "My Bubble Tea"
+excerpt: "A cat-dad need Bubble Tea badly for emotional support. <br/><img src='/images/Bubble/bubble.jpg'>"
 collection: portfolio
 ---
 
