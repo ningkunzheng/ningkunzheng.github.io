@@ -4,4 +4,4 @@ excerpt: "A cat-dad need Bubble Tea badly for emotional support. Bubble is a cat
 collection: portfolio
 ---
 
-Bubble is a cat master in fetch and high-five! His [Instagram]
+Bubble is a cat master in fetch and high-five! His [Instagram](https://www.instagram.com/bobobubble_cat/)
