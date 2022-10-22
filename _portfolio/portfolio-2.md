@@ -1,6 +1,6 @@
 ---
 title: "My photographic works"
-excerpt: "A photographer records important moments in life. <br/><img src='/images/photo/DSC00366.jpg'>"
+excerpt: "A photographer records memorable moments in life. <br/><img src='/images/photo/DSC00366.jpg'>"
 collection: portfolio
 ---
 
