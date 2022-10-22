@@ -4,8 +4,4 @@ excerpt: "A cat-dad need Bubble Tea badly for emotional support. Bubble is a cat
 collection: portfolio
 ---
 
----
-layout: forward
-target: [https://example.com](https://www.instagram.com/bobobubble_cat/)
----
-
+Bubble is a cat master in fetch and high-five! His [Instagram]
