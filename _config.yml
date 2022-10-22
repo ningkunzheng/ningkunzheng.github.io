@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ningkun Zheng (郑宁锟) / Nik Zheng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ningkun Zheng"
 description              : &description "personal description"
 url                      : https://ningkunzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
