@@ -1,6 +1,6 @@
 ---
 title: "My Bubble Tea"
-excerpt: "A cat-dad need Bubble Tea badly for emotional support. <br/><img src='/images/Bubble/bubble.jpg'>"
+excerpt: "A cat-dad need Bubble Tea badly for emotional support. His [Instagram](https://www.instagram.com/bobobubble_cat/).<br/><img src='/images/Bubble/bubble.jpg'>"
 collection: portfolio
 ---
 
