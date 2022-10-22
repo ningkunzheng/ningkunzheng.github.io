@@ -83,9 +83,9 @@ author:
   name             : "Ningkun (Nik) Zheng"
   avatar           : "Nik_Portrait.jpg"
   bio              : "Ph.D. Student<br/>Columbia University"
-  # location         : "Location"
-  # employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QHHbFCgAAAAJ&hl=en"
   email            : "nz2343@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
