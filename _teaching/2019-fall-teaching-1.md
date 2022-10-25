@@ -8,13 +8,6 @@ date: 2019-09-01
 location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A collection of systems analytic techniques which are frequently used in the study of public decision
+making is presented. Emphasis is on mathematical programming techniques. Including linear
+programming, duality, integer and mixed-integer programming, multiobjective programming, dynamic programing, and stochastic programing.

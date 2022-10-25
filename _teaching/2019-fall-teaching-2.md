@@ -8,13 +8,8 @@ date: 2019-09-01
 location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This class introduces the decision analysis approach to making decisions under risk and uncertainty.
+Topics covered include decision trees, Bayes law, value of information analysis, elicitation of subjective
+probabilities, multiattribute utility, and their applications to environmental and energy problems.
+Textbook: R.T. Clemen, Making Hard Decisions, 2014. Recommended Course Background: introductory
+statistics and probability.

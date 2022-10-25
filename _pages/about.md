@@ -13,7 +13,7 @@ Before joining Columbia, I obtained my MS degree in Environmental Health Enginee
 
 Updates
 ======
-2022/10: Slides from INFORMS Annual Meeting 2022 on Energy Storage State-of-Charge Market Model are available.
+2022/10: Slides from INFORMS Annual Meeting 2022 on [Energy Storage State-of-Charge Market Model](http://ningkunzheng.github.io/files/slides/Ningkun_Zheng_Columbia_SoCModel.pptx) and [Energy Storage Abitrage with Physical Model Integrated Deep Learning](http://ningkunzheng.github.io/files/slides/INFORMS_MLPArb.pptx) are available.
 
 2022/07: Pre-print: [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf), in collaboration with California ISO and PNNL.
 

@@ -8,13 +8,5 @@ date: 2022-09-01
 location: "New York, New York"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Fundamental of power system economics over which the current electricity markets are designed. Formulation of unit commitment and economic dispatch as mathematical optimization. Modeling of thermal generators, renewable generators, energy storage, and other grid resources in power system optimization. Introduction of equilibriums in electricity markets. Introduction of ancillary service markets. Overview of current energy system research topics.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
