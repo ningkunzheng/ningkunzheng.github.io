@@ -15,6 +15,9 @@ Updates
 ======
 2023/01: Our paper [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf) has been accepted by IEEE Transactions on Energy Markets, Policy and Regulation.
 
+2022/12: [Preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
+
+
 2022/11: [Paper](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/stamp/stamp.jsp?tp=&arnumber=9954354&tag=1) on battery technology valuation in electricity markets.
 
 2022/10: Slides from INFORMS Annual Meeting 2022 on [Energy Storage State-of-Charge Market Model](http://ningkunzheng.github.io/files/slides/Ningkun_Zheng_Columbia_SoCModel.pptx) and [Energy Storage Abitrage with Physical Model Integrated Deep Learning](http://ningkunzheng.github.io/files/slides/INFORMS_MLPArb.pptx) are available.
