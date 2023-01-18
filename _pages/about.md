@@ -17,6 +17,7 @@ Updates
 
 2022/12: [Preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
 
+2022/12: Honored to receive the EGSC Professional Development Scholarship
 
 2022/11: [Paper](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/stamp/stamp.jsp?tp=&arnumber=9954354&tag=1) on battery technology valuation in electricity markets.
 
