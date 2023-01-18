@@ -19,6 +19,8 @@ Updates
 
 2022/12: Honored to receive the EGSC Professional Development Scholarship
 
+2022/11: [Preprint](https://arxiv.org/pdf/2211.07797.pdf) on predicting opportunity cost function for energy storage arbitraging.
+
 2022/11: [Paper](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/stamp/stamp.jsp?tp=&arnumber=9954354&tag=1) on battery technology valuation in electricity markets.
 
 2022/10: Slides from INFORMS Annual Meeting 2022 on [Energy Storage State-of-Charge Market Model](http://ningkunzheng.github.io/files/slides/Ningkun_Zheng_Columbia_SoCModel.pptx) and [Energy Storage Abitrage with Physical Model Integrated Deep Learning](http://ningkunzheng.github.io/files/slides/INFORMS_MLPArb.pptx) are available.
