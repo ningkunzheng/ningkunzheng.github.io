@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-22-paper-title-number-6
 excerpt: 'This paper introduces and rationalizes a new model for bidding and clearing energy storage resources in wholesale energy markets. Charge and discharge bids in this model are dependent on the storage state-of-charge (SoC).'
 date: 2022-10-22
-venue: 'Working Paper'
+venue: 'IEEE Transactions on Energy Markets, Policy and Regulation'
 paperurl: 'https://arxiv.org/abs/2207.07221'
 citation: 'N. Zheng, X. Qin, D. Wu, G. Murtaugh, and B. Xu, “Energy Storage State-of-Charge Market Model.” arXiv, Jul. 14, 2022. Accessed: Oct. 21, 2022. [Online]. Available: http://arxiv.org/abs/2207.07221'
 ---
