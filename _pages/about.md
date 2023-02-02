@@ -13,7 +13,9 @@ Before joining Columbia, I obtained my MS degree in Environmental Health Enginee
 
 Updates
 ======
-2023/01: Our paper [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf) has been accepted by IEEE Transactions on Energy Markets, Policy and Regulation.
+2023/01: [Preprint](https://arxiv.org/pdf/2301.12041.pdf) on Vehicle-to-Grid fleet service provision considering nonlinear battery behaviors.
+
+2023/01: Our paper [Energy Storage State-of-Charge Market Model](https://ieeexplore.ieee.org/abstract/document/10021874) has been accepted by [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/abstract/document/10021874).
 
 2022/12: [Preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
 
