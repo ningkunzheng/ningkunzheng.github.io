@@ -13,6 +13,9 @@ Before joining Columbia, I obtained my MS degree in Environmental Health Enginee
 
 Updates
 ======
+
+2022/11: Our paper [Energy Storage Price Arbitrage via Opportunity Value Function Prediction](https://arxiv.org/pdf/2211.07797.pdf) has been accepted for presentation on [2023 IEEE PES GM](https://pes-gm.org/).
+
 2023/01: [Preprint](https://arxiv.org/pdf/2301.12041.pdf) on Vehicle-to-Grid fleet service provision considering nonlinear battery behaviors.
 
 2023/01: Our paper [Energy Storage State-of-Charge Market Model](https://ieeexplore.ieee.org/abstract/document/10021874) has been accepted by [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/abstract/document/10021874).
