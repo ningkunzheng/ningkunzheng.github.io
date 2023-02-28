@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). My research interests include power systems economics, energy storage intergration, and resources adequacy analysis. My CV is [here](files/CV-Ningkun Zheng.pdf).
+I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). My research interests include power systems economics, energy storage intergration, and resources adequacy analysis. My CV is [here](files/CV_NingkunZheng_02282023.pdf).
 
 Before joining Columbia, I obtained my MS degree in Environmental Health Engineering in 2019 from Johns Hopkins University, supervised by Prof. [Benjamin F. Hobbs](https://hobbsgroup.johnshopkins.edu/). I worked as a research assistant in 2020 at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, advised by Prof. [Jay Apt](https://www.cmu.edu/epp/people/emiriti-faculty/jay-apt.html).
 
