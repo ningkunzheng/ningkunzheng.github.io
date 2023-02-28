@@ -22,7 +22,7 @@ Updates
 
 2022/12: [Preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
 
-2022/12: Honored to receive the EGSC Professional Development Scholarship
+2022/12: Honored to receive the [EGSC Professional Development Scholarship](https://egsc.engineering.columbia.edu/content/pds-winners-fall-2022)
 
 2022/11: [Preprint](https://arxiv.org/pdf/2211.07797.pdf) on predicting opportunity cost function for energy storage arbitraging.
 
